@@ -37,8 +37,8 @@ Watch the system demo here:
 
 ## 🖼️ Screenshots
 
-### Dashboard / Design
-![EduGate](assets/img/edu_gate.png)
+### Dashboard
+![Dashboard](assets/img/edu_gate.png)
 
 ---
 
@@ -57,3 +57,4 @@ Watch the system demo here:
 
 ```bash
 git clone https://github.com/taha2901/EduGate
+
